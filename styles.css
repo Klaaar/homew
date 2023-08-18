@@ -1,0 +1,30 @@
+h1 {
+    	background: red;
+}
+
+.paragraph-1 {
+	background: red;
+	font-size: 32pt;
+	color: green;
+}
+
+.paragraph-2 {
+	border: 10px, solid yellow;
+	border-radius: 5px;
+	font-size: 24pt;
+	margin-bottom: 60px;
+	color: green;
+}
+.paragraph-3 {	
+	background: gray;
+	display: block;
+  	margin: 0 auto;
+  	text-align:center;	
+	border: 10px;
+	border-radius: 5px;
+	font-size: 24pt;
+	font-style: italic;
+	margin-bottom: 60px;
+	color: #000000;	
+	box-shadow: 10px 5px green;	
+}	
